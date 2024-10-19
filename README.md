@@ -3,7 +3,7 @@
   <h3 align="center">🎯 Geliştirici | Açık Kaynak Meraklısı | Linux Sever 🐧</h3>
 </div>
 
----
+
 <div align="center">
   <h1 align="center"> Hakkımda </h1>
 </div>
@@ -18,4 +18,4 @@ Bugün, Linux ve diğer platformlar için **Electron.js** tabanlı uygulamalar g
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
 </p>
----
+
