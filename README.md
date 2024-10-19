@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Merhaba, Ben Herzane</h1>
+  <h3 align="center">🚀  Açık Kaynak Aşığı | Linux Meraklısı 🐧</h3>
+</div>
 
-<!--
-**herzane52/herzane52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☎️ Bana Ulaşın  
+
+<p align="center">
+  <a href="mailto:herzane@herzane.tr" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+</p>
+
+---
