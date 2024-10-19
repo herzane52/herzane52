@@ -1,10 +1,17 @@
 <div align="center">
   <h1 align="center">Merhaba, Ben Herzane</h1>
-  <h3 align="center">🚀  Açık Kaynak Aşığı | Linux Meraklısı 🐧</h3>
+  <h3 align="center">🎯 Geliştirici | Açık Kaynak Meraklısı | Linux Sever 🐧</h3>
 </div>
 
+---
 
-## ☎️ Bana Ulaşın  
+## Hakkımda  
+
+Yazılıma 2 yıl önce Discord botları geliştirerek başladım. 🚀  
+Sonrasında, bu botlar için web siteleri geliştirmeye yöneldim. Ardından üniversitede Linux ile tanışmam, hayatımda önemli bir dönüm noktası oldu.  
+
+Bugün, Linux ve diğer platformlar için **Electron.js** tabanlı uygulamalar geliştiriyorum. Ayrıca, farklı temalar ve özelleştirmeler üzerinde çalışıyorum. Bu süreçte öğrendiklerim ve geliştirdiklerim, sadece kod yazmaktan çok daha fazlası oldu — tutku ve keşif dolu bir yolculuk. 🌱  
+
 
 <p align="center">
   <a href="mailto:herzane@herzane.tr" target="_blank">
