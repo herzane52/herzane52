@@ -1,8 +1,3 @@
-<div align="center">
-  <h1 align="center">Merhaba, Ben Herzane</h1>
-  <h3 align="center">🎯 Geliştirici | Açık Kaynak Meraklısı | Linux Sever 🐧</h3>
-</div>
-
 
 <div align="center">
   <h1 align="center"> Hakkımda </h1>
