@@ -4,8 +4,6 @@
 </div>
 
 
----
-
 ## ☎️ Bana Ulaşın  
 
 <p align="center">
@@ -14,4 +12,3 @@
   </a>
 </p>
 
----
