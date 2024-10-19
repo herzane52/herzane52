@@ -7,6 +7,9 @@
 <div align="center">
   <h1 align="center"> Hakkımda </h1>
 </div>
+
+##
+
 Yazılıma 2 yıl önce Discord botları geliştirerek başladım. 🚀  
 Sonrasında, bu botlar için web siteleri geliştirmeye yöneldim. Ardından üniversitede Linux ile tanışmam, hayatımda önemli bir dönüm noktası oldu.  
 
