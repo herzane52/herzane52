@@ -1,12 +1,19 @@
-
 <div align="center">
-  <h1 align="center"> Hakkımda </h1>
+
+## 👋 Hakkımda
+
+Yazılıma Discord botları geliştirerek başladım, zamanla web ve masaüstü uygulamalarına yöneldim.  
+Linux ekosistemiyle tanışmam bakış açımı ciddi şekilde değiştirdi ve bugün ağırlıklı olarak  
+<strong>Electron.js</strong> tabanlı, özelleştirilebilir uygulamalar geliştiriyorum.  
+Odak noktam; performans, sadelik ve kullanıcı deneyimi.
+
+<br/>
+
+<a href="https://herzane.tr/info" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Detaylı%20CV%20%26%20Projeler-ziyaret%20et-0d1117?style=for-the-badge&logo=readthedocs&logoColor=white"
+    alt="Detaylı CV ve Projeler"
+  />
+</a>
+
 </div>
-
-
-Yazılıma 2 yıl önce Discord botları geliştirerek başladım.
-Sonrasında, bu botlar için web siteleri geliştirmeye yöneldim. Ardından üniversitede Linux ile tanışmam, hayatımda önemli bir dönüm noktası oldu.  
-
-Bugün, Linux ve diğer platformlar için **Electron.js** tabanlı uygulamalar geliştiriyorum. Ayrıca, farklı temalar ve özelleştirmeler üzerinde çalışıyorum. Bu süreçte öğrendiklerim ve geliştirdiklerim, sadece kod yazmaktan çok daha fazlası oldu.
-
-- "tutku ve keşif dolu bir yolculuk. 🌱" 
