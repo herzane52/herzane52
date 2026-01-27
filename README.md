@@ -5,7 +5,6 @@
 Yazılıma Discord botları geliştirerek başladım, zamanla web ve masaüstü uygulamalarına yöneldim.  
 Linux ekosistemiyle tanışmam bakış açımı ciddi şekilde değiştirdi ve bugün ağırlıklı olarak  
 <strong>Electron.js</strong> tabanlı, özelleştirilebilir uygulamalar geliştiriyorum.  
-Odak noktam; performans, sadelik ve kullanıcı deneyimi.
 
 <br/>
 
