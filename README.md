@@ -14,5 +14,6 @@ Linux ekosistemiyle tanışmam bakış açımı ciddi şekilde değiştirdi ve b
     alt="Detaylı CV ve Projeler"
   />
 </a>
+<img src="https://herzane.tr/api/skills/svg" alt="Herzane Skills"/>
 
 </div>
