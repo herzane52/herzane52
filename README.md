@@ -1,12 +1,5 @@
 <div align="center">
-  <h1>Selam, Ben Tarık 👋</h1>
-  <p><strong>Yazılım Geliştirici | Linux Tutkunu </strong></p>
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>🚀 Hakkımda</h2>
+  <h1>🚀 Hakkımda</h1>
   <p>Yazılıma Discord botları geliştirerek başladım, zamanla web ve masaüstü uygulamalarına yöneldim.<br/>
   Linux ekosistemiyle tanışmam bakış açımı ciddi şekilde değiştirdi ve bugün ağırlıklı olarak<br/>
   <strong>Electron.js ve Tauri(Rust)</strong> tabanlı, özelleştirilebilir uygulamalar geliştiriyorum.</p>
