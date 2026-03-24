@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <h3>🚀 Hakkımda</h3>
+  <h2>🚀 Hakkımda</h2>
   <p>Yazılıma Discord botları geliştirerek başladım, zamanla web ve masaüstü uygulamalarına yöneldim.<br/>
   Linux ekosistemiyle tanışmam bakış açımı ciddi şekilde değiştirdi ve bugün ağırlıklı olarak<br/>
   <strong>Electron.js ve Tauri(Rust)</strong> tabanlı, özelleştirilebilir uygulamalar geliştiriyorum.</p>
@@ -15,14 +15,14 @@
 <br/>
 
 <div align="center">
-  <h3>🛠️ Teknolojiler & Yetenekler</h3>
+  <h2>🛠️ Teknolojiler & Yetenekler</h2>
   <img src="https://herzane.tr/api/technologies/svg" width="100%" alt="Teknolojiler" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>📊 Kod Dağılımı (Dil Yüzdeleri)</h3>
+  <h2>📊 Kod Dağılımı (Dil Yüzdeleri)</h2>
   <p><em>Tüm depolardaki byte bazlı dil ortalaması dağılımını göstermektedir. Gizli depolar da dahildir.</em></p>
   <img src="https://herzane.tr/api/skills/svg" width="100%" alt="Herzane Yetenekler"/>
 </div>
@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <h3>✨ Öne Çıkan Projeler</h3>
+  <h2>✨ Öne Çıkan Projeler</h2>
   <table width="100%">
     <tr>
       <td width="33%"><a href="https://herzane.tr/projects"><img src="https://herzane.tr/api/projects/svg?index=0" width="100%" /></a></td>
@@ -54,5 +54,4 @@
   <img src="https://herzane.tr/api/hits/svg" alt="Profil Görüntülenme" />
   <br/><br/>
   <p><em>"Kod, tasarımın ve felsefenin kesiştiği yerde sanata dönüşür."</em></p>
-  <img src="https://herzane.tr/api/hits/svg?badge=true" style="display:none" /> <!-- hits trigger -->
 </div>
