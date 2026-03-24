@@ -8,14 +8,14 @@
 <br/>
 
 <div align="center">
-  <h3>🛠️ Teknolojiler & Yetenekler</h3>
+  <h2>🛠️ Teknolojiler & Yetenekler</h2>
   <img src="https://herzane.tr/api/technologies/svg" width="100%" alt="Teknolojiler" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>📊 Kod Dağılımı (Dil Yüzdeleri)</h3>
+  <h2>📊 Kod Dağılımı (Dil Yüzdeleri)</h2>
   <p><em>Tüm depolardaki byte bazlı dil ortalaması dağılımını göstermektedir. Gizli depolar da dahildir.</em></p>
   <img src="https://herzane.tr/api/skills/svg" width="100%" alt="Herzane Yetenekler"/>
 </div>
@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">
-  <h3>✨ Öne Çıkan Projeler</h3>
+  <h2>✨ Öne Çıkan Projeler</h2>
   <table width="100%">
     <tr>
       <td width="33%"><a href="https://herzane.tr/projects"><img src="https://herzane.tr/api/projects/svg?index=0" width="100%" /></a></td>
@@ -36,10 +36,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://herzane.tr/api/status/svg" alt="Güncel Durum" />
-  <br>
-  <img src="https://herzane.tr/api/button/svg?text=PORTFOLYOMU%20ZİYARET%20ET" />
-  <img src="https://herzane.tr/api/hits/svg" alt="Profil Görüntülenme" />
+  <a href="https://herzane.tr/info" target="_blank">
+    <img src="https://herzane.tr/api/button/svg?text=PORTFOLYOMU%20ZİYARET%20Et" alt="Web Sitemi Ziyaret Et" />
+  </a>
+  <img src="https://herzane.tr/api/hits/svg?v=2" alt="Profil Görüntülenme" />
   <br/><br/>
   <p><em>"Kod, tasarımın ve felsefenin kesiştiği yerde sanata dönüşür."</em></p>
 </div>
