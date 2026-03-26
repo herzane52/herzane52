@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://herzane.tr/info" target="_blank">
-    <img src="https://herzane.tr/api/button/svg?text=PORTFOLYOMU%20ZİYARET%20Et" alt="Web Sitemi Ziyaret Et" />
+    <img src="https://herzane.tr/api/button/svg?text=PORTFOLYOMU%20ZİYARET%20ET" alt="Web Sitemi Ziyaret Et" />
   </a>
   <br/><br/>
   <p><em>"Kod, tasarımın ve felsefenin kesiştiği yerde sanata dönüşür."</em></p>
