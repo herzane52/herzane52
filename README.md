@@ -5,11 +5,7 @@
   <strong>Electron.js ve Tauri(Rust)</strong> tabanlı, uygulamalar geliştiriyorum.</p>
 </div>
 <div align="center">
-  <h2>🛠️ Teknolojiler & Yetenekler</h2>
-  <img src="https://herzane.tr/api/technologies/svg" width="100%" alt="Teknolojiler" />
-</div>
-<div align="center">
-  <h2>📊 Kod Dağılımı (Dil Yüzdeleri)</h2>
+  <h2>📊 Kod Dağılımı</h2>
   <img src="https://herzane.tr/api/skills/svg" width="100%" alt="Herzane Yetenekler"/>
 </div>
 <div align="center">
