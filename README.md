@@ -5,7 +5,7 @@
   <strong>Electron.js ve Tauri(Rust)</strong> tabanlı, uygulamalar geliştiriyorum.</p>
 </div>
 <div align="center">
-  <h2>📊 Kod Dağılımı</h2>
+  <h2>📊 PROFİL ÖZETİ</h2>
   <img src="https://herzane.tr/api/skills/svg" width="100%" alt="Herzane Yetenekler"/>
 </div>
 <div align="center">
